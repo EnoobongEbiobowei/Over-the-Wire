@@ -1,4 +1,9 @@
-# Bandit Level 0 → Level 1
-$ ssh bandit0@bandit.labs.overthewire.org -p 2220 
-bandit0@bandit.labs.overthewire.org's password:login with the password
+#Bandit Level 1 → Level 2
+
+$bandit1@bandit:~$ ls
+-
+#To access content of this file , you will need to add (./) to make it an executable file
+bandit1@bandit:~$ cat ./-
+displays the password to next level
+
 
